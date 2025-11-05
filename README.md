@@ -24,6 +24,11 @@ Chrome Extension Repository: [Link](https://github.com/prgrms-web-devcourse-fina
 
 ---
 
+## 📀시연 영상
+https://github.com/user-attachments/assets/41287d3c-ba4c-4868-94d1-926f6021bd85
+
+---
+
 ## 📄핵심 기능
 
 #### A. 정보 수집
