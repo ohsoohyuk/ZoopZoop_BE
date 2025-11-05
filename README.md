@@ -18,9 +18,9 @@
 
 **홈페이지:** [ZoopZoop](https://www.zoopzoop.kro.kr/)
 
-FE Repository: [Link](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_ZOOPZOOP_FE)
+FE Repository: [Link](https://github.com/ohsoohyuk/ZoopZoop_FE)
 
-Chrome Extension Repository: [Link](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_ZOOPS_TENSION_FE)
+Chrome Extension Repository: [Link](https://github.com/ohsoohyuk/ZoopZoop_TENSION_FE)
 
 ---
 
